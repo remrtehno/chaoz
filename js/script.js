@@ -27,4 +27,5 @@ $('.owl-testimontal').owlCarousel({
             items:2
         }
     }
-})
+});
+$('.parallax-overlay').parallax({imageSrc: 'img/title-bg-01.jpg'});
